@@ -1,0 +1,15 @@
+[
+  {
+    "id": "000-000-000", 
+    "created": "2025-12-12", 
+    "method": "Manual",
+    "parent": "(None)",
+    "approval_status": "none", 
+    "testing_status": "none", 
+    "testing_start": "n/a", 
+    "testing_end": "n/a", 
+    "revenue": "n/a", 
+    "impressions": "n/a",  
+    "rank_overall": "n/a"
+  }
+]
